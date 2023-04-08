@@ -3,7 +3,8 @@ import PintPlanner from '../assets/pintplanner8888.png'
 import BetterReads from '../assets/betterreads.png'
 import TechBlog from '../assets/techblog.png'
 import Node from '../assets/nodeteamplanner.png'
-import Ween from '../assets/download.jpg'
+import Git from '../assets/gityourlifetogether.png'
+import Weather from '../assets/weatherApp.png'
 const Work = () => {
     return (
         <div name='work' className='bg-[#0a192f] w-full md:h-screen text-gray-300'>
@@ -20,10 +21,10 @@ const Work = () => {
                         {/* hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                ReactJS Application
+                                Pint Planner
                             </span>
                             <div className='pt-8 text-center'>
-                                < a href='/'>
+                                < a href='https://cameliabenavides10.github.io/pintplanner/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
                                 < a href='/'>
@@ -37,10 +38,10 @@ const Work = () => {
                         {/* hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                ReactJS Application
+                                Better Reads
                             </span>
                             <div className='pt-8 text-center'>
-                                < a href='/'>
+                                < a href='https://better-reads10.herokuapp.com/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
                                 < a href='/'>
@@ -54,10 +55,10 @@ const Work = () => {
                         {/* hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                ReactJS Application
+                               Tech Blog
                             </span>
                             <div className='pt-8 text-center'>
-                                < a href='/'>
+                                < a href='https://techblog1002.herokuapp.com/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
                                 < a href='/'>
@@ -71,7 +72,7 @@ const Work = () => {
                         {/* hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                ReactJS Application
+                                Employee Node Tracker
                             </span>
                             <div className='pt-8 text-center'>
                                 < a href='/'>
@@ -83,6 +84,44 @@ const Work = () => {
                             </div>
                         </div>
                     </div>
+                    {/* fifth work item */}
+                    <div style={{ backgroundImage: `url(${Git})` }} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                        {/* hover effects */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                Git Your Life Together
+                            </span>
+                            <div className='pt-8 text-center'>
+                                < a href='https://git-your-life-together.herokuapp.com/'>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
+                                </a>
+                                < a href='https://github.com/cameliabenavides10/Git-your-life-together-'>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+ {/* sixth work item */}
+ <div style={{ backgroundImage: `url(${Weather})` }} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                        {/* hover effects */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                Weather App
+                            </span>
+                            <div className='pt-8 text-center'>
+                                < a href='https://cameliabenavides10.github.io/weatherapp/'>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
+                                </a>
+                                < a href='https://github.com/cameliabenavides10/weatherapp'>
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
 
                 </div>
             </div>
