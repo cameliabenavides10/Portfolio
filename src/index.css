@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body {
+    @apply font-bold;
+  }
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+
+
+
+/* @layer base {
+  body {
+    @apply font-[Calibri];
+  }
+
+  li {
+    @apply px-4
+    @apply cursor-pointer
+  }
+} */
