@@ -18,7 +18,10 @@ const About = () => {
                     </div>
                     <div>
                         <p>
-                            IM A PERSON
+                            My expertise lies in developing front-end and back-end solutions using the latest web technologies and frameworks.
+                            I am proficient in HTML, CSS, JavaScript, and have hands-on experience in building applications with React, Redux, and Material UI. Additionally, I am familiar with server-side development using Node.js and Express, as well as database management with MongoDB.
+                            Apart from technical skills, I am a highly motivated and enthusiastic individual who is always eager to learn and improve. I am a team player and possess excellent communication and collaboration skills, which enable me to work effectively in a team environment.
+                            Thank you for taking the time to learn about me, and I look forward to working with you on your next project!
                         </p>
                     </div>
                 </div>
