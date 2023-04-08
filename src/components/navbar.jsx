@@ -21,9 +21,9 @@ const Navbar = () => {
           
 
 {/* {hamburger} */}
-<button onClick={handleClick} className='md:hidden z-10'>
+<div onClick={handleClick} className='md:hidden z-10'>
 {!nav ? <FaBars /> : <FaTimes />}
-</button>
+</div>
 
 {/* {mobile menu} */}
 <div> <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center item-center'}>

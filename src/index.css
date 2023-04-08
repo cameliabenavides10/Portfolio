@@ -14,14 +14,3 @@
 
 
 
-
-/* @layer base {
-  body {
-    @apply font-[Calibri];
-  }
-
-  li {
-    @apply px-4
-    @apply cursor-pointer
-  }
-} */
