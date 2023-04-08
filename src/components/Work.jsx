@@ -27,7 +27,7 @@ const Work = () => {
                                 < a href='https://cameliabenavides10.github.io/pintplanner/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
-                                < a href='/'>
+                                < a href='https://github.com/cameliabenavides10/pintplanner'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -44,7 +44,7 @@ const Work = () => {
                                 < a href='https://better-reads10.herokuapp.com/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
-                                < a href='/'>
+                                < a href='https://github.com/cameliabenavides10/books-app'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -61,7 +61,7 @@ const Work = () => {
                                 < a href='https://techblog1002.herokuapp.com/'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
-                                < a href='/'>
+                                < a href='https://github.com/cameliabenavides10/techblog'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -75,10 +75,10 @@ const Work = () => {
                                 Employee Node Tracker
                             </span>
                             <div className='pt-8 text-center'>
-                                < a href='/'>
+                                < a href='https://github.com/cameliabenavides10/EmployeeTracker'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo </button>
                                 </a>
-                                < a href='/'>
+                                < a href='https://github.com/cameliabenavides10/EmployeeTracker'>
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
