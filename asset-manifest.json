@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.dee992ab.css",
+    "main.js": "/Portfolio/static/js/main.1fc38b3c.js",
+    "static/media/pintplanner8888.png": "/Portfolio/static/media/pintplanner8888.7e932bde54011a182380.png",
+    "static/media/betterreads.png": "/Portfolio/static/media/betterreads.808ea7f5147e60837024.png",
+    "static/media/weatherApp.png": "/Portfolio/static/media/weatherApp.bfe10062cfb6ff5375f4.png",
+    "static/media/gityourlifetogether.png": "/Portfolio/static/media/gityourlifetogether.a59fab4334686026d157.png",
+    "static/media/nodeteamplanner.png": "/Portfolio/static/media/nodeteamplanner.d63a565124591ae314b2.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/techblog.png": "/Portfolio/static/media/techblog.8a48158fa5e5a72c813d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/sql.png": "/Portfolio/static/media/sql.d0875781b3030e385cc1.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.dee992ab.css.map": "/Portfolio/static/css/main.dee992ab.css.map",
+    "main.1fc38b3c.js.map": "/Portfolio/static/js/main.1fc38b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee992ab.css",
+    "static/js/main.1fc38b3c.js"
+  ]
+}
